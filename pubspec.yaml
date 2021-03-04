@@ -1,8 +1,8 @@
 name: pa_mobile_core
 description: A new Flutter project.
 version: 0.0.1
-author:
-homepage:
+author: Phuoc Nguyen<vodanh.2901@gmail.com>
+homepage: https://github.com/phuocco/pacore.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
